@@ -14,9 +14,9 @@ class Contact extends React.Component {
     })
   }
   render() {
-    return (<Base title='Page Contact !'>
-        <p className={css(this.styles.test)}>contact@example.com</p>
-      </Base>)
+    return (<Base title="Page Contact !">
+      <p className={css(this.styles.test)}>contact@example.com</p>
+    </Base>)
   }
 }
 

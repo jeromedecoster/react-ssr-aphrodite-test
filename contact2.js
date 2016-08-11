@@ -1,7 +1,6 @@
 const renderToStaticMarkup = require('react-dom/server').renderToStaticMarkup
 const StyleSheetServer = require('aphrodite').StyleSheetServer
 const writeFile = require('fs').writeFile
-const css = require('aphrodite').css
 
 const Contact = require('./src/Contact2')
 
