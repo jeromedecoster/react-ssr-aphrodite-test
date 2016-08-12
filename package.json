@@ -1,6 +1,6 @@
 {
   "name": "react-ssr-aphrodite-test",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "React Server Side Rendering with Aphrodite test",
   "babel": {
     "presets": [

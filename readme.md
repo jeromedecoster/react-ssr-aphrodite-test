@@ -10,6 +10,8 @@ npm i jeromedecoster/react-ssr-aphrodite-test
 
 ## Scripts
 
+#### contact1
+
 ```bash
 npm run contact1
 ```
@@ -20,6 +22,8 @@ Only React SSR
 
 ---
 
+#### aphrodite
+
 ```bash
 npm run aphrodite
 ```
@@ -27,6 +31,8 @@ npm run aphrodite
 Example and steps to generate Aphrodite SSR
 
 ---
+
+#### contact2
 
 ```bash
 npm run contact2
@@ -38,13 +44,15 @@ React + Aphrodite SSR
 
 ---
 
+#### contact3
+
 ```bash
 npm run contact3
 ```
 
 Render the contact page `contact3.html`
 
-Same as contact2 but with ':hover' and '@media' effects
+Same as contact2 but with **:hover** and **@media** effects
 
 ## Thanks
 
