@@ -1,6 +1,6 @@
 {
   "name": "react-ssr-aphrodite-test",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React Server Side Rendering with Aphrodite test",
   "babel": {
     "presets": [
@@ -16,7 +16,8 @@
     "contact1": "babel-node contact1",
     "aphrodite": "node aphrodite",
     "contact2": "babel-node contact2",
-    "lint": "eslint src",
+    "contact3": "babel-node contact3",
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
